@@ -1,0 +1,4 @@
+FinanceBundle
+=============
+
+Finance management bundle
